@@ -1,3 +1,5 @@
+import org.openqa.selenium.WebDriver;
+
 package org.eclipse.che.examples;
 
 public class HelloWorld {
